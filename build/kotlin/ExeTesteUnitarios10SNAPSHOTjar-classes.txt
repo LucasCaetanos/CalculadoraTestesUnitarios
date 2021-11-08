@@ -1,0 +1,1 @@
+D:\Downloads\ExeTesteUnitarios\build\classes\kotlin\main\Calculadora.class;D:\Downloads\ExeTesteUnitarios\build\classes\kotlin\main\MainKt.class
